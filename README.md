@@ -1,7 +1,6 @@
-# React Portfolio, multiple pages with dark mode
+# React Portfolio with dark mode
 
 ## a portfolio for developers
-## features
 
 🌑 Dark Mode Toggler
 
@@ -10,18 +9,6 @@
 📱 Fully Responsive
 
 🎨 Modern Design
-
-💡 Perfect Lighthouse Score
----
-
-## getting started
-
-### prerequisites
-
-- have [Git](https://git-scm.com/) installed on your machine
-- have [Node.js](https://nodejs.org/en/download/) installed on your machine
-- basic familiarity with your machine's command line
-- basic understanding of JSON data outline (arrays of objects basically)
 
 ## how to use
 
